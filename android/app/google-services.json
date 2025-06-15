@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "788886031834",
+    "project_id": "smart-interview-coach-2b519",
+    "storage_bucket": "smart-interview-coach-2b519.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788886031834:android:199db4128a0b3ba9da84e3",
+        "android_client_info": {
+          "package_name": "com.example.smart_interview_coach"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOZTeMXv9En9CVVJ1UW2aOLfKI-_0EZrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

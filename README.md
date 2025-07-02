@@ -1,8 +1,18 @@
-# smart_interview_coach
+# Smart Interview Coach
 
-A Flutter app for mock interviews using AI and Firebase.
+A flutter based mobile application developed to help users with preparation for interviews based on pre-defined roles along with the ability to add newer roles. It helps by generating interview level question by using AI and then evaluates the user's answer for further improvement.
 
-## Getting Started
+---
+
+## Project Overview
+
+- Minimal Layout
+- Predefined roles for questions generation
+- Ability to add newer roles
+- Answers evaluation
+- Feedback and chatting option on feedbacks
+
+  
 
 This project is a starting point for a Flutter application.
 
